@@ -8,7 +8,16 @@ public class A_Fragmentary_Past : ModuleRules
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "AIModule", "NavigationSystem" , "GameplayTask" });
+		PublicDependencyModuleNames.AddRange(new string[] { 
+			"Core",
+			"CoreUObject", 
+			"Engine", 
+			"InputCore", 
+			"AIModule", 
+			"NavigationSystem" , 
+			"GameplayTasks"
+			"NavigationSystem",});
+
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
 
