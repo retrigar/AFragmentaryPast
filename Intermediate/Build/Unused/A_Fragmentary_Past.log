@@ -1,0 +1,5 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\congc\Desktop\A_Fragmentary_Past).
+  Creating makefile for A_Fragmentary_PastEditor (game project files are newer)
+UnrealBuildTool : error : Could not find definition for module 'NavigationSytem', (referenced via Target -> A_Fragmentary_Past.Build.cs)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(46,5): error MSB3073: The command "C:\WINDOWS\System32\chcp.com 65001 >NUL 
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(46,5): error MSB3073:  D:\UE_4.25\Engine\Build\BatchFiles\Build.bat A_Fragmentary_PastEditor Win64 Development -Project="C:\Users\congc\Desktop\A_Fragmentary_Past\A_Fragmentary_Past.uproject" -WaitMutex -FromMsBuild" exited with code 6.

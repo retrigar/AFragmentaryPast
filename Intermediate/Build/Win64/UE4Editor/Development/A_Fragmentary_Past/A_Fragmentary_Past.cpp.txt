@@ -1,0 +1,2 @@
+C:\Users\congc\Desktop\A_Fragmentary_Past\Intermediate\Build\Win64\UE4Editor\Development\A_Fragmentary_Past\Definitions.A_Fragmentary_Past.h
+C:\Users\congc\Desktop\A_Fragmentary_Past\Source\A_Fragmentary_Past\A_Fragmentary_Past.h
