@@ -14,8 +14,8 @@ public class A_Fragmentary_Past : ModuleRules
 			"Engine", 
 			"InputCore", 
 			"AIModule", 
-			"NavigationSystem" , 
-			"GameplayTasks"
+			"NavigationSystem", 
+			"GameplayTasks",
 			"NavigationSystem",});
 
 

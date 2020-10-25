@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "A_Fragmentary_Past",
-			"Path": "C:\\Users\\ajd21\\OneDrive\\Desktop\\A_Fragmentary_Past\\A_Fragmentary_Past\\Source\\A_Fragmentary_Past.Target.cs",
+			"Path": "C:\\Users\\congc\\Desktop\\AFragmentaryPast\\Source\\A_Fragmentary_Past.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "A_Fragmentary_PastEditor",
-			"Path": "C:\\Users\\ajd21\\OneDrive\\Desktop\\A_Fragmentary_Past\\A_Fragmentary_Past\\Source\\A_Fragmentary_PastEditor.Target.cs",
+			"Path": "C:\\Users\\congc\\Desktop\\AFragmentaryPast\\Source\\A_Fragmentary_PastEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
